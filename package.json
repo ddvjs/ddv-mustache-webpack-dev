@@ -1,6 +1,6 @@
 {
   "name": "ddv-mustache-webpack-dev",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "ddv-mustache devDependencies",
   "main": "index.js",
   "scripts": {
